@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
-  display: flex;
+  display: block;
   justify-content: center;
   align-items: center;
   height: 90vh;
@@ -120,4 +120,9 @@ video {
 }
 .searching {
   display: inline;
+}
+.contact-footer {
+  position: relative;
+  text-align: center;
+  margin-top: 15px;
 }
